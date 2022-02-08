@@ -54,3 +54,13 @@ A Tamagotchi clone, where you take care of a fish.
       * Smile/neutral/frown
       * Tank water
       * Seaweed movement
+
+## Credits
+
+* Textbook:
+   * [C# Player's Guide, RB Whitaker 5th Ed.](https://csharpplayersguide.com)
+* C# tutorials: 
+   * [Michael Hadley](https://www.youtube.com/channel/UC_x9TgYAIFHj1ulXjNgZMpQ) 
+* ASCII Art:
+   * [Fish](https://www.asciiart.eu/animals/fish)
+   * [Text generator](https://www.coolgenerator.com/ascii-text-generator) 
