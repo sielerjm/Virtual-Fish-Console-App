@@ -25,7 +25,32 @@
              |   / /   |                  ++   |   / +++
             /   /  |   |                   ++ / __ /
             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+++~~~~~
-           
-           A Tamagotchi clone, where you take care of a fish.
 
 ```            
+
+## Description
+
+A Tamagotchi clone, where you take care of a fish.
+
+
+## To Do
+
+* Implement game logic
+   * Loop
+* Core game mechanics
+   * Eat
+   * Sleep
+   * Play
+   * Health bar
+   * Energy bar
+   * Happiness bar
+* Extra features
+   * Tank maintenance (cleanliness)
+      * Clean
+   * Fish sickness (parasites)
+     * Medicine  
+   * Animations
+      * Eye movement
+      * Smile/neutral/frown
+      * Tank water
+      * Seaweed movement
