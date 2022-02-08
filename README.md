@@ -44,7 +44,10 @@ A Tamagotchi clone, where you take care of a fish.
    * Health bar
    * Energy bar
    * Happiness bar
+   * Check fish stats
+   * Time tracking
 * Extra features
+   * See fish
    * Tank maintenance (cleanliness)
       * Clean
    * Fish sickness (parasites)
