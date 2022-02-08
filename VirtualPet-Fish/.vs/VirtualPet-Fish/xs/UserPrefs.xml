@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E91F0A93-61E0-4E64-BD44-2692CCBF1794}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="26" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VirtualPet-Fish" expanded="True">
+            <Node name="VirtualPet-Fish" expanded="True">
+              <Node name="VirtualPet-Fish" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VirtualPet-Fish PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
