@@ -33,26 +33,32 @@
 A Tamagotchi clone, where you take care of a fish.
 
 
-## To Do
+## Progress
+
+### Completed:
+* [x] Initialize project structure
+* [x] Welcome page
+* [x] Create a fish and name it
+
+### To do:
 
 * Implement game logic
-   * Loop
+   * [ ] Loop
 * Core game mechanics
-   * Eat
-   * Sleep
-   * Play
-   * Health bar
-   * Energy bar
-   * Happiness bar
-   * Check fish stats
-   * Time tracking
+   * [ ] Eat
+   * [ ] Sleep
+   * [ ] Play
+   * [ ] Health bar
+   * [ ] Energy bar
+   * [ ] Happiness bar
+   * [ ] Check fish stats
+   * [ ] Time tracking
+   * [ ] Fish sickness (parasites
+   * [ ] Apply medicine
+   * [ ] Clean Tank
 * Extra features
-   * See fish
-   * Tank maintenance (cleanliness)
-      * Clean
-   * Fish sickness (parasites)
-     * Medicine  
-   * Animations
+   * [ ] Visualize fish on screen (happy, neutral, sad)
+   * [ ] Animations
       * Eye movement
       * Smile/neutral/frown
       * Tank water
