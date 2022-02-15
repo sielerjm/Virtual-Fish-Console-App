@@ -30,7 +30,7 @@
 
 ## Description
 
-A Tamagotchi clone, where you take care of a fish.
+Virtual Fish: a Tamagotchi clone, where you take care of a pet fish.
 
 
 ## Progress
