@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{E91F0A93-61E0-4E64-BD44-2692CCBF1794}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tank.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Tank.cs">
     <Files>
-      <File FileName="Program.cs" Line="17" Column="26" NotebookId="1" />
-      <File FileName="Game.cs" Line="1" Column="1" NotebookId="1" />
-      <File FileName="VirtualFish.cs" Line="1" Column="1" NotebookId="1" />
-      <File FileName="Tank.cs" Line="17" Column="60" NotebookId="1" />
+      <File FileName="Program.cs" Line="17" Column="31" />
+      <File FileName="Game.cs" Line="87" Column="23" />
+      <File FileName="../Tank.cs" Line="34" Column="81" />
+      <File FileName="VirtualFish.cs" Line="77" Column="33" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VirtualPet-Fish" expanded="True">
             <Node name="VirtualPet-Fish" expanded="True">
-              <Node name="VirtualPet-Fish" expanded="True">
-                <Node name="Tank.cs" selected="True" />
-              </Node>
+              <Node name="VirtualPet-Fish" expanded="True" />
+              <Node name="Tank.cs" selected="True" />
             </Node>
           </Node>
         </State>

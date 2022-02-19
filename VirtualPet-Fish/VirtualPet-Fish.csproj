@@ -7,4 +7,10 @@
     <BaseDirectory>..\..\Virtual-Fish-Console-App</BaseDirectory>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Tank.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Tank.cs" />
+  </ItemGroup>
 </Project>

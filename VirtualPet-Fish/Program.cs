@@ -13,8 +13,8 @@ namespace VirtualPet_Fish
         {
 
             // Run Program
-            Tank myTank = new Tank();
-            myTank.Run();
+            Game currentGame = new Game();
+            currentGame.Run();
 
 
         }

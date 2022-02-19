@@ -12,6 +12,7 @@ namespace VirtualPet_Fish
         public string Name;
         public int Age;
         public bool IsAwake;
+        public bool IsAlive;
         public double HealthLevel;
         public double EnergyLevel;
         public double HappyLevel;
@@ -29,11 +30,12 @@ namespace VirtualPet_Fish
             Name = newName;
             Age = 0;
             IsAwake = true;
+            IsAlive = true;
             HealthLevel = 1.0;
             EnergyLevel = 1.0;
             HappyLevel = 1.0;
 
-            WriteLine("Fish being constructed!");
+            WriteLine("Fish being constructed!");  // #TEST
         }
 
 
@@ -44,6 +46,7 @@ namespace VirtualPet_Fish
             WriteLine($"- Name: {Name}");
             WriteLine($"- Age: {Age} days old");
             WriteLine($"- Awake: {IsAwake}");
+            WriteLine($"- Awake: {IsAlive}");
             WriteLine($"- Health Level: {HealthLevel}");
             WriteLine($"- Energy Level: {EnergyLevel}");
             WriteLine($"- Happiness Level: {HappyLevel}");
@@ -60,6 +63,19 @@ namespace VirtualPet_Fish
         {
             IsAwake = false;
             WriteLine($"Shhh! {Name} is sleeping... ZZZzzzz....");
+        }
+
+        // Gets and sets alive status
+        public bool Alive
+        {
+            get
+            {
+                return IsAlive;
+            }
+            set
+            {
+                IsAlive = value;
+            }
         }
     }
 }
