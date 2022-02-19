@@ -30,27 +30,46 @@
 
 ## Description
 
-A Tamagotchi clone, where you take care of a fish.
+Virtual Fish: a Tamagotchi clone, where you take care of a pet fish.
 
 
-## To Do
+## Progress
+
+### Completed:
+* [x] Initialize project structure
+* [x] Welcome page
+* [x] Create a fish and name it
+
+### To do:
 
 * Implement game logic
-   * Loop
+   * [ ] Loop
 * Core game mechanics
-   * Eat
-   * Sleep
-   * Play
-   * Health bar
-   * Energy bar
-   * Happiness bar
+   * [ ] Eat
+   * [ ] Sleep
+   * [ ] Play
+   * [ ] Health bar
+   * [ ] Energy bar
+   * [ ] Happiness bar
+   * [ ] Check fish stats
+   * [ ] Time tracking
+   * [ ] Fish sickness (parasites
+   * [ ] Apply medicine
+   * [ ] Clean Tank
 * Extra features
-   * Tank maintenance (cleanliness)
-      * Clean
-   * Fish sickness (parasites)
-     * Medicine  
-   * Animations
+   * [ ] Visualize fish on screen (happy, neutral, sad)
+   * [ ] Animations
       * Eye movement
       * Smile/neutral/frown
       * Tank water
       * Seaweed movement
+
+## Credits
+
+* Textbook:
+   * [C# Player's Guide, RB Whitaker 5th Ed.](https://csharpplayersguide.com)
+* C# tutorials: 
+   * [Michael Hadley](https://www.youtube.com/channel/UC_x9TgYAIFHj1ulXjNgZMpQ) 
+* ASCII Art:
+   * [Fish](https://www.asciiart.eu/animals/fish)
+   * [Text generator](https://www.coolgenerator.com/ascii-text-generator) 
